@@ -3,9 +3,11 @@
 
 - 🔭 I’m currently working on [Job Listing Keyword Analyzer](https://job-scraper-results-cas110.s3.us-east-2.amazonaws.com/index.html)
 
+- I’m currently also working on [Comic Book Database](https://students.washington.edu/lgorre/css475ComicBook/list_products.php)
+
 - 🌱 I’m currently learning **Operating Systems**
 
-- I’m currently also working on [Comic Book Database](https://students.washington.edu/lgorre/css475ComicBook/list_products.php)
+
 
 - 📫 How to reach me **lukegorre@gmail.com**
 
