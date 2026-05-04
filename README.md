@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Lucas</h1>
+<h1 align="center">Hello, I'm Lucas Gorre</h1>
 <h3 align="center">A passionate Software Developer at the University of Washington</h3>
 
 - I’m currently working on [Chronicles of Big-O](https://lgorre.itch.io/chronicles-of-big-o)
