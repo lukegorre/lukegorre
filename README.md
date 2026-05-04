@@ -3,7 +3,7 @@
 
 - I’m currently working on [Chronicles of Big-O](https://lgorre.itch.io/chronicles-of-big-o)
 
-- I’m currently also working on a [Job Listing Keyword Analyzer](https://students.washington.edu/lgorre/css475ComicBook/list_products.php)
+- I’m currently also working on a [Job Listing Keyword Analyzer](https://job-scraper-results-cas110.s3.us-east-2.amazonaws.com/index.html)
 
 - Check out my comic book database project [Comic Book Database](https://students.washington.edu/lgorre/css475ComicBook/list_products.php)
 
