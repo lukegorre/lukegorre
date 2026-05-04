@@ -1,9 +1,7 @@
 <h1 align="center">Hello, I'm Lucas Gorre</h1>
 <h3 align="center">A passionate Software Developer at the University of Washington</h3>
 
-- I’m currently working on [Chronicles of Big-O](https://lgorre.itch.io/chronicles-of-big-o)
-
-- I’m currently also working on a [Job Listing Keyword Analyzer](https://job-scraper-results-cas110.s3.us-east-2.amazonaws.com/index.html)
+- I’m currently working on [Chronicles of Big-O](https://lgorre.itch.io/chronicles-of-big-o) - Gamifying Data Structures and Algorithms.
 
 - Check out my comic book database project [Comic Book Database](https://students.washington.edu/lgorre/css475ComicBook/list_products.php)
 
